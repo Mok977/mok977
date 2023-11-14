@@ -2,6 +2,7 @@
 Designer | Software Engineer | a Content Strategist 
 
 The art of creative flow with the limitless energies of the divine. 
+
 ✨ I am engaged in the crystal brand business and have established the Shiny Bear Family brand in Web3.0.
 🌲 I have a deep appreciation for nature and a passion for technology.
 🖼️ I believe that life is made up of diverse and exciting experiences, and I strive to continuously embrace and enhance the value of life.
