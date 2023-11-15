@@ -6,7 +6,7 @@ The art of creative flow with the limitless energies of the divine.
 - 🌲 I have a deep appreciation for nature and a passion for technology.
 - 🖼️ I believe that life is made up of diverse and exciting experiences, and I strive to continuously embrace and enhance the value of life.
 
-### Languages & Tools
+### 💻 Languages & Tools
 ![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ The art of creative flow with the limitless energies of the divine.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨🎨Designer
+### 🎨 Designer
 ![PS](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Ai](https://aleen42.github.io/badges/src/illustrator.svg)
 ![AE](https://aleen42.github.io/badges/src/after_effects.svg)
