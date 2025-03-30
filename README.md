@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mok ！
+### Hi there 👋 I am Mok ！[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhanmo/) 
 Designer | Software Engineer | a Content Strategist 
 
 The art of creative flow with the limitless energies of the divine. 
@@ -23,8 +23,11 @@ The art of creative flow with the limitless energies of the divine.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mok977&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mok977&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mok977&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<details>
+  <summary> 📊 GitHub Stats: </summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mok977&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mok977&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
