@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Mok ！[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhanmo/) 
-Ex-Designer | Software Engineer | a Content Strategist 
+Software | Engineer Ex-Designer | a Content Strategist 
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
