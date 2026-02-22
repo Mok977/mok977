@@ -16,11 +16,3 @@ Software Engineer | Ex-Designer | a Content Strategist
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-<details>
-  <summary> 📊 GitHub Stats: </summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mok977&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mok977&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
